@@ -4,7 +4,7 @@
 ## Getting started  
 
 
-    1) First clone this repository ($ git clone https://github.com/ShubhM28/bookstore)
+    1) First clone this repository ($ git clone https://github.com/ShubhM28/bookstore.git)
 
     2) Install dependencies. Make sure you already have nodejs & npm installed in your system.
 
